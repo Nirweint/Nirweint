@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alexander Vakulich
-- 👀 I’m frontend developer
-- 🌱 I’m currently learning React, TypeScript
+- 👀 I will be frontend developer soon
+- 🌱 I’m currently learning React, TypeScript in it-incubator
 - 📫 How to reach me: https://www.linkedin.com/in/alexander-vakulich-b728a81a8/
