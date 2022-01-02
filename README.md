@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Alexander Vakulich
-- 👀 I will be frontend developer soon
-- 🌱 I’m currently learning React, TypeScript in it-incubator
+- 👀 I’m front-end developer
