@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Alexander Vakulich
-- 👀 I’m front-end developer
+
